@@ -1,0 +1,79 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.bannerContent h1{
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.bannerContent h1 span{
+    color:#2699FB;
+}
+
+.bannerContent p{
+    font-size: 22px;
+}
+
+.bannerContent ul{
+   list-style: none;
+}
+
+.bannerContent ul li{
+    font-size: 22px;
+}
+
+.bannerContentbtn button{
+    width: 50%;
+}
+
+.formhead{
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.formhead h3{
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.formbtn{
+    background:linear-gradient(to right, #0ACEFE,#2699FB);
+    width: 100%;
+    border: none;
+}
+
+.countersec h2{
+    color:#2699FB;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.highlights-section {
+    background-color: #e1eef5a1;
+}
+
+.highlights-section h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: #0A2134;
+}
+
+.highlightitems {
+    max-width: 250px; 
+    border-radius: 10px;
+}
+
+.highlightitems h4{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.highlightitems p{
+    font-size: 13px;
+}
+
+.highlightitems i{
+    color:#2699FB;
+}
+
